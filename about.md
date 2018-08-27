@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Hey, this is GY."
-header-img: "img/aboutme.png"
+header-img: "img/fire.JPG"
 ---
 
 <!-- Language Selector -->
