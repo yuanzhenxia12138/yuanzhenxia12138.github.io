@@ -51,16 +51,16 @@ kramdown:
 # 评论系统
 # Disqus（https://disqus.com/）
 # disqus_username: yigaoyi
-
+comments:
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 4209660cf4ab53bdd3dd                            #生成的clientID
-  clientSecret: 4d4c3fb1c3f590e78ecc080ae30596ac4647d856    #生成的clientSecret
-  repo: https://yigaoyi.github.io.    #仓库名称
-  owner: YIGAOYI    #github用户名
-  #admin: yigaoyi
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  gitalk:
+    enable: true    #是否开启Gitalk评论
+    clientID: 4209660cf4ab53bdd3dd                            #生成的clientID
+    clientSecret: 4d4c3fb1c3f590e78ecc080ae30596ac4647d856    #生成的clientSecret
+    repo: https://yigaoyi.github.io.    #仓库名称
+    owner: YIGAOYI    #github用户名
+    admin: yigaoyi
+    distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -90,7 +90,7 @@ service-worker: true
 
 
 # Friends
-Excellent website: [
+Friends: [
     {
         title: "机器之心",
         href: "https://www.jiqizhixin.com/categories/basic"
