@@ -15,8 +15,8 @@ header-img: "img/fire.JPG"
 <div class="zh post-container">
 
     <!--copied from markdown -->
-    <blockquote><p>冰冻三尺 非一日之寒<br>
-    积土成山 非斯须之作</p></blockquote>
+    <blockquote><p>博观而约取<br>
+    厚积而薄发</p></blockquote>
 
     <p>Hey，我是<strong>高毅(GY)</strong>，在读硕士。</p>
 
