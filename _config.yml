@@ -11,14 +11,15 @@ github_repo: "https://github.com/YIGAOYI/YIGAOYI.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/wangye.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Be yourself and stay unique!"
+sidebar-avatar: /img/k.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-
+weibo_username:     Fire高燚
+github_username:    YIGAOYI
 
 
 # Build settings
@@ -67,10 +68,10 @@ comments:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-124739528-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
@@ -79,7 +80,7 @@ ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -90,12 +91,15 @@ service-worker: true
 
 
 # Friends
-Friends: [
+friends: [
     {
         title: "机器之心",
         href: "https://www.jiqizhixin.com/categories/basic"
     },{
         title: "paperweekly",
         href: "https://www.paperweekly.site/"
+    },{
+        title: "Apple Developer",
+        href: "https://developer.apple.com/"
     }
 ]
