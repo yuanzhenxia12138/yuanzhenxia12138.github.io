@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      个人博客构建(free)
-subtitle:   github page + jekyll
-date:       2018-8-27
+title:      Deep leaning
+subtitle:   My personal notes
+date:       2018-8-28
 author:     GY
 header-img: img/post-bg-desk.jpg
 catalog: true
