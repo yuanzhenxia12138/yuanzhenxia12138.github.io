@@ -8,14 +8,12 @@ tags: essay
 
 * content
 {:toc}
-I need to speed up my study progress.
+Even if I find the place controlled all by myself, I still need to censoring myself.
 
 
 
 ## Recently thinking
-https://xxx/watch?v=CsjiZD2E6h0
-
-'xxx' refers to 'www.youtube.com'.
+CsjiZD2E6h0
 
 I am proud of them.
 
