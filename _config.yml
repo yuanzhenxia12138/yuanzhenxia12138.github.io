@@ -1,13 +1,13 @@
 # Site settings
-title: GY Blog
-SEOTitle: 高毅的博客 | GY Blog
+title: Kafka's beavers
+SEOTitle: Kafka's beavers Blog
 header-img: img/post-bg-desk.jpg
-email: yigaofire@gmail.com
+email: taoyiran815579058@gmail.com
 description: "Life is too short to wait."
-keyword: "GY, GY Blog"
-url: "http://yigaoyi.github.io"          # your host, for absolute URL
+keyword: "Kafka's beavers Blog"
+url: "http://yuanzhenxia12138.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/YIGAOYI/YIGAOYI.github.io.git" # you code repository
+github_repo: "https://github.com/yuanzhenxia12138/yuanzhenxia12138.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,8 +18,8 @@ sidebar-avatar: /img/k.jpg      # use absolute URL, seeing it's used in both `/`
 
 # SNS settings
 RSS: false
-weibo_username:     6578350179
-github_username:    YIGAOYI
+weibo_username:     none
+github_username:    none
 
 
 # Build settings
@@ -58,9 +58,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 4209660cf4ab53bdd3dd                            #生成的clientID
   clientSecret: 4d4c3fb1c3f590e78ecc080ae30596ac4647d856    #生成的clientSecret
-  repo: https://yigaoyi.github.io.    #仓库名称
-  owner: YIGAOYI    #github用户名
-  admin: yigaoyi
+  repo: https://yuanzhenxia12138.github.io.    #仓库名称
+  owner: yuanzhenxia12138    #github用户名
+  admin: yuanzhenxia12138
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
