@@ -29,4 +29,4 @@ I come here to document my thinking, my experiences and my trivia because I want
 
 3. A sentence I like very much recently is that if you do not take a chance seriously, do you hope for the next one? 
 
-4. Yeap, I am good! Keep fighting, keep confidence and keep struggling. ε=(´ο｀*)))
+4. Yep, I am good! Keep fighting, keep confidence and keep struggling. ε=(´ο｀*)))
