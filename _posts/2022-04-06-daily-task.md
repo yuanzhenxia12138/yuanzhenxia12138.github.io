@@ -9,8 +9,9 @@ tags: record
 * content
 {:toc}
 
-Do at least one algorithm problem every day.
+Do at least one algorithm problem（AP） every day.
 
 ## February 2020
-
+02/10  1 AP & grad project
+02/10  1 AP & grad project
 
