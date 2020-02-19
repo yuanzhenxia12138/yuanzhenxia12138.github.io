@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "The head portrait satisfing me"
+title:  "The head portrait satisfying me"
 date:   2020-02-20 00:20:54
 categories: essay
 tags: essay
