@@ -25,11 +25,6 @@ After finishing my GRE test at November 23, 2019 at Zhejiang University, I learn
 GRE test is interesting, even though it is less important than TOEFL and GPA. My score is V 154 and Q 170.
 The words in GRE test are useful and improve my English proficiency by teaching me memorizing words in context, as a native speaker.
 
-## Application
-
-I know low GPA is my biggest disadvantage, although I finally achieved my goal of TOEFL and GRE as well as negotiated my internship( Research assistant) about physics-based simulation in Chinese Academy of Sciences. It is delayed by WH pneumonia.
-
-Good luck to myself!!!!!!!!!! I pray.
 
 ## The other half
 
