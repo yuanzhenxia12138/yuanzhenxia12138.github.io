@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title:  "My Conjecture"
-date:   2020-03-08 00:50:54
+title:  "Recent situation"
+date:   2020-06-28 00:50:54
 categories: essay 
 tags: essay 
 ---
