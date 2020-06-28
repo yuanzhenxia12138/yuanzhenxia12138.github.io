@@ -13,11 +13,12 @@ Even if I find the place controlled all by myself, I still need to censoring mys
 
 
 ## Recently thinking
-CsjiZD2E6h0
+
+Csj-iZD-2E6-h0
 
 I am proud of them.
 
-Sometimes speaking less is security. So, that's all.
+Less is secure.
 
 
 
